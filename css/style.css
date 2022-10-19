@@ -1,20 +1,8 @@
-h1 {
-	color: red;
-}
-.red{
-    color: red;
-}
-
-.blue{
-    color: blue;
-}
-section {
-    width: 100%;
-    font-family: "roboto", sans-serif;
-    border: 1px solid black;
-}
-
-img {
-    height: 200px;
-    width: 200px;
+.box {
+     width: 200px;
+     height: 200px;
+     background-color: green;
+    border: 15px solid red;
+    padding: 15px, 15px, 15px 15px;
+    margin: 15px 15px 15px 15px;
 }
